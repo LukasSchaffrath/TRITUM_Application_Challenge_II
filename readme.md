@@ -1,5 +1,3 @@
-A website that visualizes data by retrieving it from sqlite database.
-
 NOTE:
 
 Ensure that python 3.7.9, pip and django 3.1.7 is installed on your machine.
